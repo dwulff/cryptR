@@ -8,3 +8,4 @@ Description: En- and decrypt R data objects using Sodium
 License: What license is it under?
 LazyData: TRUE
 Include: sodium
+RoxygenNote: 5.0.1
