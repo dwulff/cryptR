@@ -1,0 +1,10 @@
+Package: cryptR
+Type: Package
+Title: En- and decrypt R data objects
+Version: 0.1.0
+Author: Dirk U. Wulff
+Maintainer: Dirk U. Wulff <dirk.wulff@gmail.com>
+Description: En- and decrypt R data objects using Sodium
+License: What license is it under?
+LazyData: TRUE
+Include: sodium
